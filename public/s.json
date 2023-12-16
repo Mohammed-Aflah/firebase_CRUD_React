@@ -1,0 +1,656 @@
+{
+    "_firestore": {
+        "app": {
+            "_isDeleted": false,
+            "_options": {
+                "apiKey": "AIzaSyCWh2bfskP70QNfaXF8lClRc5WbaU9nrdI",
+                "authDomain": "olxproject-46933.firebaseapp.com",
+                "projectId": "olxproject-46933",
+                "storageBucket": "olxproject-46933.appspot.com",
+                "messagingSenderId": "148246182265",
+                "appId": "1:148246182265:web:b3b2e4c8268fc757f657a8",
+                "measurementId": "G-VGJ7YK2VVE"
+            },
+            "_config": {
+                "name": "[DEFAULT]",
+                "automaticDataCollectionEnabled": false
+            },
+            "_name": "[DEFAULT]",
+            "_automaticDataCollectionEnabled": false,
+            "_container": {
+                "name": "[DEFAULT]",
+                "providers": {}
+            }
+        },
+        "databaseId": {
+            "projectId": "olxproject-46933",
+            "database": "(default)"
+        },
+        "settings": {
+            "host": "firestore.googleapis.com",
+            "ssl": true,
+            "ignoreUndefinedProperties": false,
+            "cacheSizeBytes": 41943040,
+            "experimentalForceLongPolling": false,
+            "experimentalAutoDetectLongPolling": true,
+            "experimentalLongPollingOptions": {},
+            "useFetchStreams": true
+        }
+    },
+    "_userDataWriter": {
+        "firestore": {
+            "app": {
+                "_isDeleted": false,
+                "_options": {
+                    "apiKey": "AIzaSyCWh2bfskP70QNfaXF8lClRc5WbaU9nrdI",
+                    "authDomain": "olxproject-46933.firebaseapp.com",
+                    "projectId": "olxproject-46933",
+                    "storageBucket": "olxproject-46933.appspot.com",
+                    "messagingSenderId": "148246182265",
+                    "appId": "1:148246182265:web:b3b2e4c8268fc757f657a8",
+                    "measurementId": "G-VGJ7YK2VVE"
+                },
+                "_config": {
+                    "name": "[DEFAULT]",
+                    "automaticDataCollectionEnabled": false
+                },
+                "_name": "[DEFAULT]",
+                "_automaticDataCollectionEnabled": false,
+                "_container": {
+                    "name": "[DEFAULT]",
+                    "providers": {}
+                }
+            },
+            "databaseId": {
+                "projectId": "olxproject-46933",
+                "database": "(default)"
+            },
+            "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": true,
+                "experimentalLongPollingOptions": {},
+                "useFetchStreams": true
+            }
+        }
+    },
+    "_snapshot": {
+        "query": {
+            "path": {
+                "segments": [
+                    "test"
+                ],
+                "offset": 0,
+                "len": 1
+            },
+            "collectionGroup": null,
+            "explicitOrderBy": [],
+            "filters": [],
+            "limit": null,
+            "limitType": "F",
+            "startAt": null,
+            "endAt": null,
+            "le": [
+                {
+                    "field": {
+                        "segments": [
+                            "__name__"
+                        ],
+                        "offset": 0,
+                        "len": 1
+                    },
+                    "dir": "asc"
+                }
+            ],
+            "he": {
+                "path": {
+                    "segments": [
+                        "test"
+                    ],
+                    "offset": 0,
+                    "len": 1
+                },
+                "collectionGroup": null,
+                "orderBy": [
+                    {
+                        "field": {
+                            "segments": [
+                                "__name__"
+                            ],
+                            "offset": 0,
+                            "len": 1
+                        },
+                        "dir": "asc"
+                    }
+                ],
+                "filters": [],
+                "limit": null,
+                "startAt": null,
+                "endAt": null,
+                "ce": "test|f:|ob:__name__asc"
+            },
+            "Pe": null
+        },
+        "docs": {
+            "keyedMap": {
+                "root": {
+                    "key": {
+                        "path": {
+                            "segments": [
+                                "projects",
+                                "olxproject-46933",
+                                "databases",
+                                "(default)",
+                                "documents",
+                                "test",
+                                "bo03gbMC0DCOkHfy5vjy"
+                            ],
+                            "offset": 5,
+                            "len": 2
+                        }
+                    },
+                    "value": {
+                        "key": {
+                            "path": {
+                                "segments": [
+                                    "projects",
+                                    "olxproject-46933",
+                                    "databases",
+                                    "(default)",
+                                    "documents",
+                                    "test",
+                                    "bo03gbMC0DCOkHfy5vjy"
+                                ],
+                                "offset": 5,
+                                "len": 2
+                            }
+                        },
+                        "documentType": 1,
+                        "version": {
+                            "timestamp": {
+                                "seconds": 1702144474,
+                                "nanoseconds": 662755000
+                            }
+                        },
+                        "readTime": {
+                            "timestamp": {
+                                "seconds": 1702146014,
+                                "nanoseconds": 342294000
+                            }
+                        },
+                        "createTime": {
+                            "timestamp": {
+                                "seconds": 1702144474,
+                                "nanoseconds": 662755000
+                            }
+                        },
+                        "data": {
+                            "value": {
+                                "mapValue": {
+                                    "fields": {
+                                        "place": {
+                                            "stringValue": "malappuram"
+                                        },
+                                        "name": {
+                                            "stringValue": "aflu"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "documentState": 0
+                    },
+                    "color": false,
+                    "left": {
+                        "key": {
+                            "path": {
+                                "segments": [
+                                    "projects",
+                                    "olxproject-46933",
+                                    "databases",
+                                    "(default)",
+                                    "documents",
+                                    "test",
+                                    "TLDFXICgtaYps4YTx0mc"
+                                ],
+                                "offset": 5,
+                                "len": 2
+                            }
+                        },
+                        "value": {
+                            "key": {
+                                "path": {
+                                    "segments": [
+                                        "projects",
+                                        "olxproject-46933",
+                                        "databases",
+                                        "(default)",
+                                        "documents",
+                                        "test",
+                                        "TLDFXICgtaYps4YTx0mc"
+                                    ],
+                                    "offset": 5,
+                                    "len": 2
+                                }
+                            },
+                            "documentType": 1,
+                            "version": {
+                                "timestamp": {
+                                    "seconds": 1702144524,
+                                    "nanoseconds": 156180000
+                                }
+                            },
+                            "readTime": {
+                                "timestamp": {
+                                    "seconds": 1702146014,
+                                    "nanoseconds": 342294000
+                                }
+                            },
+                            "createTime": {
+                                "timestamp": {
+                                    "seconds": 1702144524,
+                                    "nanoseconds": 156180000
+                                }
+                            },
+                            "data": {
+                                "value": {
+                                    "mapValue": {
+                                        "fields": {
+                                            "place": {
+                                                "stringValue": "calicut"
+                                            },
+                                            "name": {
+                                                "stringValue": "jamshe"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "documentState": 0
+                        },
+                        "color": true,
+                        "left": {
+                            "size": 0
+                        },
+                        "right": {
+                            "size": 0
+                        },
+                        "size": 1
+                    },
+                    "right": {
+                        "size": 0
+                    },
+                    "size": 2
+                }
+            },
+            "sortedSet": {
+                "root": {
+                    "key": {
+                        "key": {
+                            "path": {
+                                "segments": [
+                                    "projects",
+                                    "olxproject-46933",
+                                    "databases",
+                                    "(default)",
+                                    "documents",
+                                    "test",
+                                    "bo03gbMC0DCOkHfy5vjy"
+                                ],
+                                "offset": 5,
+                                "len": 2
+                            }
+                        },
+                        "documentType": 1,
+                        "version": {
+                            "timestamp": {
+                                "seconds": 1702144474,
+                                "nanoseconds": 662755000
+                            }
+                        },
+                        "readTime": {
+                            "timestamp": {
+                                "seconds": 1702146014,
+                                "nanoseconds": 342294000
+                            }
+                        },
+                        "createTime": {
+                            "timestamp": {
+                                "seconds": 1702144474,
+                                "nanoseconds": 662755000
+                            }
+                        },
+                        "data": {
+                            "value": {
+                                "mapValue": {
+                                    "fields": {
+                                        "place": {
+                                            "stringValue": "malappuram"
+                                        },
+                                        "name": {
+                                            "stringValue": "aflu"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "documentState": 0
+                    },
+                    "value": null,
+                    "color": false,
+                    "left": {
+                        "key": {
+                            "key": {
+                                "path": {
+                                    "segments": [
+                                        "projects",
+                                        "olxproject-46933",
+                                        "databases",
+                                        "(default)",
+                                        "documents",
+                                        "test",
+                                        "TLDFXICgtaYps4YTx0mc"
+                                    ],
+                                    "offset": 5,
+                                    "len": 2
+                                }
+                            },
+                            "documentType": 1,
+                            "version": {
+                                "timestamp": {
+                                    "seconds": 1702144524,
+                                    "nanoseconds": 156180000
+                                }
+                            },
+                            "readTime": {
+                                "timestamp": {
+                                    "seconds": 1702146014,
+                                    "nanoseconds": 342294000
+                                }
+                            },
+                            "createTime": {
+                                "timestamp": {
+                                    "seconds": 1702144524,
+                                    "nanoseconds": 156180000
+                                }
+                            },
+                            "data": {
+                                "value": {
+                                    "mapValue": {
+                                        "fields": {
+                                            "place": {
+                                                "stringValue": "calicut"
+                                            },
+                                            "name": {
+                                                "stringValue": "jamshe"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "documentState": 0
+                        },
+                        "value": null,
+                        "color": true,
+                        "left": {
+                            "size": 0
+                        },
+                        "right": {
+                            "size": 0
+                        },
+                        "size": 1
+                    },
+                    "right": {
+                        "size": 0
+                    },
+                    "size": 2
+                }
+            }
+        },
+        "oldDocs": {
+            "keyedMap": {
+                "root": {
+                    "size": 0
+                }
+            },
+            "sortedSet": {
+                "root": {
+                    "size": 0
+                }
+            }
+        },
+        "docChanges": [
+            {
+                "type": 0,
+                "doc": {
+                    "key": {
+                        "path": {
+                            "segments": [
+                                "projects",
+                                "olxproject-46933",
+                                "databases",
+                                "(default)",
+                                "documents",
+                                "test",
+                                "TLDFXICgtaYps4YTx0mc"
+                            ],
+                            "offset": 5,
+                            "len": 2
+                        }
+                    },
+                    "documentType": 1,
+                    "version": {
+                        "timestamp": {
+                            "seconds": 1702144524,
+                            "nanoseconds": 156180000
+                        }
+                    },
+                    "readTime": {
+                        "timestamp": {
+                            "seconds": 1702146014,
+                            "nanoseconds": 342294000
+                        }
+                    },
+                    "createTime": {
+                        "timestamp": {
+                            "seconds": 1702144524,
+                            "nanoseconds": 156180000
+                        }
+                    },
+                    "data": {
+                        "value": {
+                            "mapValue": {
+                                "fields": {
+                                    "place": {
+                                        "stringValue": "calicut"
+                                    },
+                                    "name": {
+                                        "stringValue": "jamshe"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "documentState": 0
+                }
+            },
+            {
+                "type": 0,
+                "doc": {
+                    "key": {
+                        "path": {
+                            "segments": [
+                                "projects",
+                                "olxproject-46933",
+                                "databases",
+                                "(default)",
+                                "documents",
+                                "test",
+                                "bo03gbMC0DCOkHfy5vjy"
+                            ],
+                            "offset": 5,
+                            "len": 2
+                        }
+                    },
+                    "documentType": 1,
+                    "version": {
+                        "timestamp": {
+                            "seconds": 1702144474,
+                            "nanoseconds": 662755000
+                        }
+                    },
+                    "readTime": {
+                        "timestamp": {
+                            "seconds": 1702146014,
+                            "nanoseconds": 342294000
+                        }
+                    },
+                    "createTime": {
+                        "timestamp": {
+                            "seconds": 1702144474,
+                            "nanoseconds": 662755000
+                        }
+                    },
+                    "data": {
+                        "value": {
+                            "mapValue": {
+                                "fields": {
+                                    "place": {
+                                        "stringValue": "malappuram"
+                                    },
+                                    "name": {
+                                        "stringValue": "aflu"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "documentState": 0
+                }
+            }
+        ],
+        "mutatedKeys": {
+            "data": {
+                "root": {
+                    "size": 0
+                }
+            }
+        },
+        "fromCache": false,
+        "syncStateChanged": true,
+        "excludesMetadataChanges": false,
+        "hasCachedResults": true
+    },
+    "metadata": {
+        "hasPendingWrites": false,
+        "fromCache": false
+    },
+    "query": {
+        "converter": null,
+        "_query": {
+            "path": {
+                "segments": [
+                    "test"
+                ],
+                "offset": 0,
+                "len": 1
+            },
+            "collectionGroup": null,
+            "explicitOrderBy": [],
+            "filters": [],
+            "limit": null,
+            "limitType": "F",
+            "startAt": null,
+            "endAt": null,
+            "le": [
+                {
+                    "field": {
+                        "segments": [
+                            "__name__"
+                        ],
+                        "offset": 0,
+                        "len": 1
+                    },
+                    "dir": "asc"
+                }
+            ],
+            "he": {
+                "path": {
+                    "segments": [
+                        "test"
+                    ],
+                    "offset": 0,
+                    "len": 1
+                },
+                "collectionGroup": null,
+                "orderBy": [
+                    {
+                        "field": {
+                            "segments": [
+                                "__name__"
+                            ],
+                            "offset": 0,
+                            "len": 1
+                        },
+                        "dir": "asc"
+                    }
+                ],
+                "filters": [],
+                "limit": null,
+                "startAt": null,
+                "endAt": null,
+                "ce": "test|f:|ob:__name__asc"
+            },
+            "Pe": null
+        },
+        "type": "collection",
+        "firestore": {
+            "app": {
+                "_isDeleted": false,
+                "_options": {
+                    "apiKey": "AIzaSyCWh2bfskP70QNfaXF8lClRc5WbaU9nrdI",
+                    "authDomain": "olxproject-46933.firebaseapp.com",
+                    "projectId": "olxproject-46933",
+                    "storageBucket": "olxproject-46933.appspot.com",
+                    "messagingSenderId": "148246182265",
+                    "appId": "1:148246182265:web:b3b2e4c8268fc757f657a8",
+                    "measurementId": "G-VGJ7YK2VVE"
+                },
+                "_config": {
+                    "name": "[DEFAULT]",
+                    "automaticDataCollectionEnabled": false
+                },
+                "_name": "[DEFAULT]",
+                "_automaticDataCollectionEnabled": false,
+                "_container": {
+                    "name": "[DEFAULT]",
+                    "providers": {}
+                }
+            },
+            "databaseId": {
+                "projectId": "olxproject-46933",
+                "database": "(default)"
+            },
+            "settings": {
+                "host": "firestore.googleapis.com",
+                "ssl": true,
+                "ignoreUndefinedProperties": false,
+                "cacheSizeBytes": 41943040,
+                "experimentalForceLongPolling": false,
+                "experimentalAutoDetectLongPolling": true,
+                "experimentalLongPollingOptions": {},
+                "useFetchStreams": true
+            }
+        },
+        "_path": {
+            "segments": [
+                "test"
+            ],
+            "offset": 0,
+            "len": 1
+        }
+    }
+}
